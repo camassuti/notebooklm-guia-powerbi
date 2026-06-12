@@ -1,4 +1,4 @@
-Curadoria de Fontes
+## Fontes Utilizadas
 
 Documentação Oficial DAX:
 https://learn.microsoft.com/pt-br/dax/
